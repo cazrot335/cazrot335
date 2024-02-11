@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Coder | Web & App Developer | React.js, React Native | Open for Collaborations 🌐</h3>
 
 
-<img src="./saitama-disappointed-expressionless-face-788mzyvc4zzrzqin.gif" alt="Downloaded GIF" width=600px align="center" >
+<img align="center" src="./saitama-disappointed-expressionless-face-788mzyvc4zzrzqin.gif" alt="Downloaded GIF" width=500px align="center" >
 
 
 
