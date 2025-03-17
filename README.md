@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">👋 About Me<br>💻 Developer & Lifelong Learner – Always exploring new technologies and refining my skills.<br>🚀 Passionate About Innovation – Love tackling unique challenges and blending creativity with tech.<br>⚡ Currently Learning – Diving into TypeScript to enhance my development stack.<br>🎯 Problem-Solver – Enjoy building efficient, scalable, and impactful solutions.<br>🔍 Always Curious – Exploring AI, full-stack development, and futuristic tech.<br>📌 Let’s build something amazing!</p>
+<p align="left">👋 About Me<br>💻 Developer & Lifelong Learner – Always exploring new technologies and refining my skills.<br>🚀 Passionate About Innovation – Love tackling unique challenges and blending creativity with tech.<br>⚡ Currently Learning – Diving into TypeScript to enhance my development stack.<br>🎯 Problem-Solver – Enjoy building efficient, scalable, and impactful solutions.<br>🔍 Always Curious – Exploring AI, full-stack development, and futuristic tech.<br>📌 Let’s build something amazing!</p>
 
 ###
 
